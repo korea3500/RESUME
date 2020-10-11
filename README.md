@@ -9,15 +9,10 @@
 ### Stack ###
 
 * Machine Learning
-<div width = "70%" height="80">
   
-  
-  |pandas|Skilearn|pytorch|keras|TensorFlow|
-  |---|---|---|---|---|
-  |![pandas](images/pandas.png)|![sklearn](images/sklearn.png)|![pytorch](images/pytorch.png)|![keras](images/keras.png)|![Tensorflow](images/tensorflow.jpg)|
-
-
-</div>
+|pandas|Skilearn|pytorch|keras|TensorFlow|
+|---|---|---|---|---|
+|![pandas](images/pandas.png)|![sklearn](images/sklearn.png)|![pytorch](images/pytorch.png)|![keras](images/keras.png)|![Tensorflow](images/tensorflow.jpg)|
 
 ***  
 * Interesting field
