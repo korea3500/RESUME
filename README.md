@@ -9,16 +9,20 @@
 ### Stack ###
 
 * Machine Learning
+<div width = "70%" height="80">
+  
+  
+  |pandas|Skilearn|pytorch|keras|TensorFlow|
+  |---|---|---|---|---|
+  |![pandas](images/pandas.png)|![sklearn](images/sklearn.png)|![pytorch](images/pytorch.png)|![keras](images/keras.png)|![Tensorflow](images/tensorflow.jpg)|
 
-|pandas|Skilearn|pytorch|keras|TensorFlow|
-|---|---|---|---|---|
-|![pandas](images/pandas.png)|![sklearn](images/sklearn.png)|![pytorch](images/pytorch.png)|![keras](images/keras.png)|![Tensorflow](images/tensorflow.jpg)|
 
+</div>
 
 ***  
 * Interesting field
 
 |Javascript|jQuery|Node|react|Linux|
 |---|---|---|---|---|
-|![Javascript](images/javascript.png)|![jQuery](images/jquery.gif)|![node](images/node.png)|![react](images/react.png)|[Linux](linux.png)|
+|<img src="/images/javascript.png" width="80" height="80">|<img src="/images/jquery.gif" width="80" height="80">|<img src="/images/node.png" width="80" height="80">|<img src="/images/react.png" width="80" height="80">|<img src="/images/linux.png" width="80" height="80">|
 
