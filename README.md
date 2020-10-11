@@ -12,9 +12,9 @@
 * Machine Learning
 
 
-|pandas|Skilearn|pytorch|keras|TensorFlow|
+|pandas|Sklearn|pytorch|keras|TensorFlow|
 |---|---|---|---|---|
-|<img src="/images/pandas.png" width="80" height="80">|<img src="/images/skilearn.png" width="80" height="80">|<img src="/images/pytorch.png" width="80" height="80">|<img src="/images/keras.png" width="80" height="80">|<img src="/images/Tensorflow.png" width="80" height="80">|
+|<img src="/images/pandas.png" width="80" height="80">|<img src="/images/sklearn.png" width="80" height="80">|<img src="/images/pytorch.png" width="80" height="80">|<img src="/images/keras.png" width="80" height="80">|<img src="/images/tensorflow.jpg" width="80" height="80">|
 
 
 ***  
