@@ -26,5 +26,6 @@
 
 ***
 
+### Contact ###  
 만약 저에게 연락을 주셔야 하는 경우, 프로필의 메일을 참고하여 주시기 바랍니다.  
-If you need to contact me, please refer to the email in my profile.
+If you need to contact me, please refer to the email in my profile. thank you.
