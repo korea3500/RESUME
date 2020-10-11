@@ -3,10 +3,10 @@
 
 <img src="/images/20175135.jpg" width="80" height="100">  
 한림대학교에 다니고 있는 학생이며, 머신러닝과 프론트엔드에 관심을 가지고 있습니다.  
+
 ***  
 
-### Stack #
-***    
+### Stack ###
 
 * Machine Learning
 
@@ -16,5 +16,9 @@
 
 
 ***  
-* Arduino, Rasberry
+* Interesting field
+
+|Javascript|jQuery|Node|react|Linux|
+|---|---|---|---|---|
+|![Javascript](images/javascript.png)|![jQuery](images/jquery.gif)|![node](images/node.png)|![react](images/react.png)|[Linux](linux.png)|
 
