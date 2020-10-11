@@ -1,4 +1,5 @@
 
+
 <h2> korea3500 : student in hallym univ </h2>  
 
 <img src="/images/20175135.jpg" width="80" height="100">  
@@ -9,10 +10,12 @@
 ### Stack ###
 
 * Machine Learning
-  
+
+
 |pandas|Skilearn|pytorch|keras|TensorFlow|
 |---|---|---|---|---|
-|![pandas](images/pandas.png)|![sklearn](images/sklearn.png)|![pytorch](images/pytorch.png)|![keras](images/keras.png)|![Tensorflow](images/tensorflow.jpg)|
+|<img src="/images/pandas.png" width="80" height="80">|<img src="/images/skilearn.png" width="80" height="80">|<img src="/images/pytorch.png" width="80" height="80">|<img src="/images/keras.png" width="80" height="80">|<img src="/images/Tensorflow.png" width="80" height="80">|
+
 
 ***  
 * Interesting field
